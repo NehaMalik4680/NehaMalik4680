@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NehaMalik4680
 - 👀 I’m interested in software development 
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning c++, python
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
